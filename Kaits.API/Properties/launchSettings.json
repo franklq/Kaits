@@ -14,13 +14,7 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "BD_CATALOG": "Kaits",
-        "BD_USER": "sa",
-        "JWT_SECRET_KEY": "ltkXOYnQ24zWNjlW2Pm4r0734VvRi4Hk",
-        "BD_PASS": "504948",
-        "JWT_AUTH_KEY": "MbQeThWmZq4t7w9z",
-        "BD_DATA_SOURCE": "localhost",
-        "JWT_TIME_OUT_MIN": "120",
+        
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
