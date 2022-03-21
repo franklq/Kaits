@@ -12,9 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "JWT_AUTH_KEY": "MbQeThWmZq4t7w9z",
-        "JWT_AUTH_TOKEN": "gVkYp3s6v9y$B?E(H+MbQeThWmZq4t7w",
-        "URL_BASE_API": "http://localhost:14206",
+        
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
